@@ -35,7 +35,7 @@ function Todohomepage() {
           task.map((item, index) => (
             // <div  key={index}>{item}<button onClick={() => handledelete(index)}><MdDelete /></button></div>
             <Stack gap={3}>
-      <div className="p-2" >{item}< MdDelete id='del' onClick={()=>handledelete(index)}/></div>
+      <div className="p-2 m-1" >{item}< MdDelete id='del' onClick={()=>handledelete(index)}/></div>
       
     </Stack>
           ))

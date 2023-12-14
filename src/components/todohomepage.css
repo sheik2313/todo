@@ -1,0 +1,41 @@
+.head {
+  margin-left: 550px;
+}
+
+div#a {
+  background-color: rgb(83, 83, 159);
+  height: 100vh;
+  padding-top: 50px;
+}
+
+div#border {
+  text-align: center;
+  background-color: rgb(0, 255, 255);
+  padding-top: 2%;
+  margin: 5% 5%;
+  padding-bottom: 2%;
+}
+
+#in {
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgba(137, 43, 226, 0.434);
+  width: 150px;
+}
+
+.ip {
+  width: 80%;
+  padding: 10px;
+  background-color: rgba(238, 130, 238, 0.432);
+}
+
+.p-2 {
+  text-align: center;
+  border: 1px solid;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: xx-large;
+  background-color:lightseagreen;
+
+}
+#del{float: right;}
